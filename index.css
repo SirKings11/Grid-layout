@@ -1,0 +1,10 @@
+.grid-item {
+    background-color: blueviolet;
+    margin: 0%;
+    padding: 10px;
+    padding-right: 10px;
+}
+
+.grid-container{
+    display: grid;
+}
